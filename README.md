@@ -1,2 +1,2 @@
 # DBMS-Lab-Quries
-DBMS lab queries and theory programs
+DBMS lab queries and theory 
